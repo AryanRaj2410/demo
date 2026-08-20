@@ -6,5 +6,6 @@ echo "New branch fron develop name login"
 echo "Added new line as per requested"
 echo "Develop file"
 echo "main branch update"
+echo "branch2"
 echo "branch1"
-echo "Line2
+echo "Line1"
